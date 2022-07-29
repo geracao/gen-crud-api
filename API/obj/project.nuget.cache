@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8HyUi3sxgrQai7tn/OVEMWC92YzUcx9YMBo8dj2ovZXgm9czc9SqNNOb8GRxv1fPvQacp5r/aYphnsepLwDpLw==",
+  "dgSpecHash": "9iZv6OVoqKP2M2C/JHqlarx+eczYOLziZ3DSEV4ATxmwEqFQDa8vepKYuF8DnZq87YBnVArOHQ8/wmv9BT7lgw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Mauricio\\Documents\\Projeto\\gen-crud-api\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Mauricio\\Documents\\Projeto\\gen-crud-api\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mauricio\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Mauricio\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.7\\microsoft.entityframeworkcore.6.0.7.nupkg.sha512",

@@ -1,4 +1,5 @@
 using API.Data;
+using API.Repository;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,8 +13,10 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<MembroContext>(options =>
 {
-    options.UseNpgsql();
+    options.UseNpgsql(builder.Configuration.GetConnectionString("Default"));
 });
+
+builder.Services.AddScoped<IMembroRepository, MembroRepository>();
 
 var app = builder.Build();
 
