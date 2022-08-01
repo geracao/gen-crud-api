@@ -33,3 +33,4 @@ C:\Users\Mauricio\Documents\Projeto\gen-crud-api\API\bin\Debug\net6.0\Microsoft.
 C:\Users\Mauricio\Documents\Projeto\gen-crud-api\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\Mauricio\Documents\Projeto\gen-crud-api\API\bin\Debug\net6.0\Npgsql.dll
 C:\Users\Mauricio\Documents\Projeto\gen-crud-api\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Mauricio\Documents\Projeto\gen-crud-api\API\bin\Debug\net6.0\System.Web.Cors.dll
